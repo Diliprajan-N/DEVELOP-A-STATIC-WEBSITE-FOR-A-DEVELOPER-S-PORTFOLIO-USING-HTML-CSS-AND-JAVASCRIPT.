@@ -14,4 +14,6 @@ BATCH DURATION: JAN 5th,2025 to FEBRUARY 5th, 2025
 
 MENTOR NAME:Neela Santhosh Kumar
 
+Output:![Image](https://github.com/user-attachments/assets/05ef1a01-c6c5-44be-b275-17f5fa751fef)
+
 
